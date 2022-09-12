@@ -42,7 +42,7 @@ module.exports = {
 
   // [OPTIONAL] This is where you specify the folders that are password protected. It is an array of paths pointing to all
   // the directories in which you have .password set. Check the documentation for details.
-  protectedRoutes: ['/🔒 加密目录测试/Protected route'],
+  protectedRoutes: ['/🔒 加密目录测试/Protected route', '/🔒 加密目录测试/黄油点心'],
 
   // [OPTIONAL] Use "" here if you want to remove this email address from the nav bar.
   email: 'mailto:support@erag.eu.org',
